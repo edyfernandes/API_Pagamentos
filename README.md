@@ -20,7 +20,7 @@ API simples para criação e captura de pagamentos via **PayPal Sandbox**, utili
 ### 1️⃣ Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/edyfernandes/API_Pagamentos.git
 cd seu-repositorio
 ```
 
